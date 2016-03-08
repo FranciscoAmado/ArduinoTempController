@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PESEE</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="velocidade_array">
+        <item>Automático</item>
+        <item>Velocidade 1</item>
+        <item>Velocidade 2</item>
+    </string-array>
+</resources>
